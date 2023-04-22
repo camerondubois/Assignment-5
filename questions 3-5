@@ -1,3 +1,0 @@
-Question 3: muscle -in infile.fasta -seqtype protein -maxiters 16 -maxmb 30000000 -hydro 5 -hydrofactor 1.2 -log logfile.txt -weight1 clustalw -distance1 kmer6_6 -cluster1 upgmb -sueff 0.1 -root1 pseudo -maxtrees 1 -weight2 clustalw -distance2 pctidkimura -cluster2 upgmb -sueff 0.1 -root2 pseudo -objscore sp -noanchors -out output.fasta
-Question 4: flying fox (ptoperus) most closely related to: synconyteris australis, dobsonio viridis, cynopteus sphinx, rousettus leschenaultii, epomophorous wahlbergi 
-Question 5: With contagious dieases such as COVID-19, we can use phylogeny to understand different strains of the virus and its mutations. Comparing the genome sequences of viruses can help us find vaccines and proper treatment/isolation procedures to fight its spread. 
